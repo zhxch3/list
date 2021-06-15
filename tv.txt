@@ -564,17 +564,14 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
 
 轮播,#genre#
-爱情公寓,http://192.168.0.141:81/tv/egame.php?id=187229621
 爱情公寓,http://192.168.0.141:81/tv/egame.php?id=322842111
 爱情公寓,http://192.168.0.141:81/tv/douyu.php?id=6863367
-龙门镖局,http://192.168.0.141:81/tv/egame.php?id=11297736
 地下交通站,http://192.168.0.141:81/tv/douyu.php?id=6778282
 地下交通站,http://192.168.0.141:81/tv/douyu.php?id=299854
 地下交通站,http://192.168.0.141:81/tv/douyu.php?id=7253343
 地下交通站,http://192.168.0.141:81/tv/b.php?id=21070039
 勇士闯魔城,http://192.168.0.141:81/tv/douyu.php?id=7421687
 坑王驾到,http://192.168.0.141:81/tv/b.php?id=22239221
-坑王驾到,http://192.168.0.141:81/tv/egame.php?id=620346223
 老友记,http://192.168.0.141:81/tv/egame.php?id=581708630
 德云社,http://192.168.0.141:81/tv/egame.php?id=421447299
 德云社,http://192.168.0.141:81/tv/egame.php?id=616289265
@@ -586,12 +583,11 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 蜡笔小新,http://192.168.0.141:81/tv/b.php?id=27844
 名侦探柯南,http://192.168.0.141:81/tv/egame.php?id=616512747
 海绵宝宝,http://192.168.0.141:81/tv/douyu.php?id=2250349
-海绵宝宝,http://192.168.0.141:81/tv/douyu.php?id=678706943
 少年包青天,http://192.168.0.141:81/tv/douyu.php?id=7784862
-神探狄仁杰,http://192.168.0.141:81/tv/douyu.php?id=6166636
 孤独的美食家,http://192.168.0.141:81/tv/douyu.php?id=260322
-庆余年,http://192.168.0.141:81/tv/egame.php?id=504209819
 铁齿铜牙纪晓岚,http://192.168.0.141:81/tv/yy.php?id=22039119
+格斗,http://192.168.0.141:81/tv/egame.php?id=131986685
+格斗,http://192.168.0.141:81/tv/douyu.php?id=2255521
 
 
 
