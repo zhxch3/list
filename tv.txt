@@ -212,6 +212,19 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 广西卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/gxhd.m3u8
 贵州卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a71.m3u8
 北京卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls69a21.m3u8
+陕西卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a477.m3u8
+宁夏卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a474.m3u8
+山西卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a465.m3u8
+甘肃卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a480.m3u8
+兵团卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a502.m3u8
+新疆卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a479.m3u8
+云南卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a471.m3u8
+西藏卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a481.m3u8
+厦门卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a454.m3u8
+内蒙古卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a478.m3u8
+青海卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a475.m3u8
+延边卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/ybtv.m3u8
+农林卫视,http://[2001:da8:c000:1201:f816:3eff:fe09:940e]/hls/hls186a503.m3u8
 
 东南卫视,http://hdtv.lzu6.edu.cn/hls/dnhd.m3u8
 东南卫视,http://hdtv.lzu6.edu.cn/hls/jlu_dnwshd.m3u8
