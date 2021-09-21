@@ -413,6 +413,7 @@ CCTV-17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 地下交通站,http://192.168.0.141:81/tv/douyu.php?id=7253343
 地下交通站,http://192.168.0.141:81/tv/b.php?id=21070039
 勇士闯魔城,http://192.168.0.141:81/tv/douyu.php?id=7421687
+坑王驾到,http://192.168.0.141:81/tv/egame.php?id=620346223
 坑王驾到,http://192.168.0.141:81/tv/b.php?id=22239221
 老友记,http://192.168.0.141:81/tv/egame.php?id=581708630
 德云社,http://192.168.0.141:81/tv/egame.php?id=421447299
