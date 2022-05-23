@@ -1,4 +1,4 @@
-#2021-1-11#
+#2021-5-23#
 央视频道,#genre#
 CCTV-1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -15,17 +15,15 @@ CCTV-7,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001291/i
 CCTV-8,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-9,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001294/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-10,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001288/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-11,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv11hd/1.m3u8
 CCTV-12,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001289/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-13,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctvxwhd/1.m3u8
 CCTV-13,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-13/.m3u8
 CCTV-14,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001292/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-15,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv15hd/1.m3u8
 CCTV-15,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-15/.m3u8
-CCTV-16,http://[2409:8087:3000:23:0:3::1145]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
 CCTV-16,http://[2409:8087:3000:23:0:3::110A]:8112/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-cctv16/1.m3u8
 CCTV-17,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001295/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-IPTV5+,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001592/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
 CCTV-1,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv1hd8m/index.m3u8
 CCTV-1,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8000k-1080P-cctv1/.m3u8
 CCTV-1,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/H265-5500k-1080P-cctv1/1.m3u8
@@ -37,7 +35,6 @@ CCTV-3,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahby
 CCTV-4,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-4/.m3u8
 CCTV-5,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-5/.m3u8
 CCTV-5,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/1.m3u8
-CCTV-5+,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-5Phd/1.m3u8
 CCTV-5+,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-8M-1080P-cctv05plus/.m3u8
 CCTV-5+,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/HD-4000k-cctv05plus/1.m3u8
 CCTV-5+,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdcctv05plus/.m3u8
@@ -60,28 +57,23 @@ CCTV-14,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahb
 CCTV-14,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cctv-14/.m3u8
 CCTV-17,http://[2409:8087:3000:23:0:3::110A]:8112/120000001002/XMTcctv-17hd/1.m3u8
 CCTV-17,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/SD-4000k-576P-cctv17/.m3u8
-
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV-2,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
 CCTV-3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
 CCTV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226223/index.m3u8
-CCTV-5,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 CCTV-5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
 CCTV-6,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 CCTV-7,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
 CCTV-8,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226391/index.m3u8
-CCTV-9,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
 CCTV-10,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
 CCTV-12,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
 CCTV-14,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 IPTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
-
 卫视频道,#genre#
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001028/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001025/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 天津卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001343/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -104,7 +96,6 @@ IPTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
 重庆卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001297/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001030/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 黑龙江卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001338/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
 湖南卫视,http://[2409:8087:3000:23:0:3::110A]:8112/120000001001/wlds:8080/ysten-business/live/hdhunanstv/1.m3u8
 湖南卫视,http://[2409:8087:3000:23:0:3::110A]:8112/120000001001/wlds:8080/ysten-business/live/hunanstv/1.m3u8
 海南卫视,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/hainanwshd8m/index.m3u8
@@ -113,22 +104,16 @@ IPTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
 贵州卫视,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/gzwshd8m/index.m3u8
 贵州卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/pltv-guizhoustv/.m3u8
 浙江卫视,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
-浙江卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/-8M-1080P-zhejiangstv/.m3u8
 浙江卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/zhejiangstv/.m3u8
 江苏卫视,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/jswshd8m/index.m3u8
-江苏卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/-8M-1080P-jiangsustv/.m3u8
 江苏卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/jiangsustv/.m3u8
 安徽卫视,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
-安徽卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/-8M-1080P-anhuistv/.m3u8
 安徽卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/cqanhuistv/1.m3u8
 安徽卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/anhuistv/1.m3u8
 安徽卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/H265-5500k-1080P-anhuistv/1.m3u8
 深圳卫视,http://[2409:8087:3000:23:0:3::110A]:8112/120000001003/live/program/_ahbyfh-1_/live/szwshd/index.m3u8
-深圳卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdshenzhenstv/.m3u8
-北京卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/-8M-1080P-beijingstv/.m3u8
 北京卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/beijingstv/.m3u8
 北京卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdbeijingstv/.m3u8
-东方卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/-8M-1080P-dongfangstv/.m3u8
 东方卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hddongfangstv/.m3u8
 东方卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/dongfangstv/.m3u8
 天津卫视,http://[2409:8087:3000:23:0:3::110A]:8112/ysten-business/live/hdtianjinstv/.m3u8
@@ -169,6 +154,7 @@ IPTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
 广东卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226261/index.m3u8
+
 
 
 
