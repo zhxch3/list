@@ -156,9 +156,6 @@ IPTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
 东方卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226261/index.m3u8
 
 
-
-
-轮播,#genre#
 轮播,#genre#
 爱情公寓,http://192.168.0.108:9084/egame.php?id=322842111
 爱情公寓,http://192.168.0.108:9084/douyu.php?id=6863367
