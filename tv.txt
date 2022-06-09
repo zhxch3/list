@@ -162,7 +162,9 @@ IPTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
 地下交通站,http://192.168.0.108:9084/douyu.php?id=299854
 地下交通站,http://zzy789.xyz/bili.php?id=23623242
 地下交通站,http://192.168.0.108:9084/fy.php?id=11342433
+名侦探柯南,http://zzy789.xyz/bili.php?id=181453
 猫和老鼠,http://192.168.0.108:9084/douyu.php?id=7888428
+猫和老鼠,http://zzy789.xyz/bili.php?id=1024814
 海绵宝宝,http://192.168.0.108:9084/douyu.php?id=2250349
 海绵宝宝,http://zzy789.xyz/bili.php?id=61834
 蜡笔小新,http://zzy789.xyz/bili.php?id=21570935
@@ -182,6 +184,7 @@ IPTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
 英大吉,http://192.168.0.108:9084/douyu.php?id=9174097
 孤独的美食家,http://192.168.0.108:9084/douyu.php?id=260322
 格斗,http://192.168.0.108:9084/douyu.php?id=1170082
+
 
 NewTv,#genre#
 景区直播,#genre#
