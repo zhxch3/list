@@ -168,6 +168,63 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001324/index.m3
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",广东高尔夫
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001323/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",爱情公寓
+http://192.168.0.108:9084/douyu.php?id=6863367
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",爱情公寓
+http://192.168.0.108:9084/fy.php?id=11336726
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",地下交通站
+http://192.168.0.108:9084/douyu.php?id=299854
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",地下交通站
+http://zzy789.xyz/bili.php?id=23623242
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",地下交通站
+http://192.168.0.108:9084/fy.php?id=11342433
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",名侦探柯南
+http://zzy789.xyz/bili.php?id=181453
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",猫和老鼠
+http://192.168.0.108:9084/douyu.php?id=7888428
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",猫和老鼠
+http://zzy789.xyz/bili.php?id=1024814
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",海绵宝宝
+http://192.168.0.108:9084/douyu.php?id=2250349
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",海绵宝宝
+http://zzy789.xyz/bili.php?id=61834
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",蜡笔小新
+http://zzy789.xyz/bili.php?id=21570935
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",蜡笔小新
+http://zzy789.xyz/bili.php?id=22804740
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",少年包青天
+http://192.168.0.108:9084/douyu.php?id=7784862
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",少年包青天
+http://192.168.0.108:9084/fy.php?id=11342393
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",德云社
+http://192.168.0.108:9084/fy.php?id=26631018
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",德云社(音频)
+http://zzy789.xyz/bili.php?id=22375571
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",德云社(音频)
+http://zzy789.xyz/bili.php?id=308438
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",铁齿铜牙纪晓岚
+http://zzy789.xyz/bili.php?id=6694373
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",铁齿铜牙纪晓岚
+http://192.168.0.108:9084/fy.php?id=11342396
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",炊事班的故事
+http://zzy789.xyz/bili.php?id=21354981
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",周星驰
+http://192.168.0.108:9084/fy.php?id=22972199
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",神探狄仁杰
+http://192.168.0.108:9084/douyu.php?id=6027991
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",神探狄仁杰
+http://zzy789.xyz/bili.php?id=493067
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",龙门镖局
+http://192.168.0.108:9084/douyu.php?id=9650860
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",勇士闯魔城
+http://192.168.0.108:9084/douyu.php?id=7421687
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",英大吉
+http://192.168.0.108:9084/douyu.php?id=9174097
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",孤独的美食家
+http://192.168.0.108:9084/douyu.php?id=260322
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",格斗
+http://192.168.0.108:9084/douyu.php?id=1170082
 
 
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="IPTV",CGTN
