@@ -171,6 +171,7 @@ IPTV5+,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226345/index.m3u8
 蜡笔小新,http://zzy789.xyz/bili.php?id=22804740
 少年包青天,http://192.168.0.108:9084/douyu.php?id=7784862
 少年包青天,http://192.168.0.108:9084/fy.php?id=11342393
+德云社,http://192.168.0.108:9084/fy.php?id=26631018
 德云社（音频）,http://zzy789.xyz/bili.php?id=22375571
 德云社（音频）,http://zzy789.xyz/bili.php?id=308438
 铁齿铜牙纪晓岚,http://zzy789.xyz/bili.php?id=6694373
