@@ -103,8 +103,27 @@ http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000002000021220/1.m3u8?ch
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000002000007495/1.m3u8?channel-id=ystenlive&Contentid=1000000002000007495&livemode=1&stbId=0
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视频道",新疆卫视
 http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000002000029441/1.m3u8?channel-id=ystenlive&Contentid=1000000002000029441&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方频道",珠江卫视
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=0
+
+#EXTINF:-1 tvg-id="7251" tvg-name="广东综艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVENT.png" group-title="地方频道",广东综艺
+http://120.87.4.5:80/PLTV/88888973/224/3221226174/10000100000000060000000001154677_0.smil/01.m3u8?fmt=ts2hls,83,01.m3u8,0,28893,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowks7JFSNmqxY+Vs2cx118+R:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="地方频道",广东珠江
+http://112.89.121.24:80/PLTV/88888973/224/3221226219/10000100000000060000000001339127_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7809,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkA8XRtoLtcXa3827qxtKmF:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV3.png" group-title="地方频道",广东体育
+http://112.89.121.23:80/PLTV/88888973/224/3221225750/10000100000000060000000000334588_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7840,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowknjg8NSqNVsWY2LwTOy6B9:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-id="7252" tvg-name="广东经济" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVECO.png" group-title="地方频道",广东经济科教
+http://112.89.121.21:80/PLTV/88888973/224/3221225752/10000100000000060000000000334591_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,7807,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmoxHIkVT2YRc54nGjGZOvg:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="地方频道",广东新闻
+http://112.89.121.21:80/PLTV/88888973/224/3221225719/10000100000000060000000000334142_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2443,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowk/inuEY/E/H3Sdg8+Iylto:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-id="6014" tvg-name="广东公共" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV4.png" group-title="地方频道",广东公共
+http://112.89.121.21:80/PLTV/88888973/224/3221225720/10000100000000060000000000334144_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2362,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmqa9lv8pfII6A7oM+O1+jz:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-id="6017" tvg-name="广东国际" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV8.png" group-title="地方频道",广东国际
+http://112.89.121.21:80/PLTV/88888973/224/3221225722/10000100000000060000000000334154_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2442,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowmKHtlqt+yjCIgUcTEIQmxR:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVMOV.png" group-title="地方频道",广东影视
+http://112.89.121.21:80/PLTV/88888973/224/3221225726/10000100000000060000000000334170_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2442,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowkfd9IoKdgcJmTBecuaKGXz:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTVSHAO.png" group-title="地方频道",广东少儿
+http://112.89.121.21:80/PLTV/88888973/224/3221225727/10000100000000060000000000334183_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2441,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCownrw/j/aNuduCcIim1MFJop:20181110091937,END&GuardEncType=2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",广东移动
+http://112.89.121.24:80/PLTV/88888973/224/3221225735/10000100000000060000000000334521_0.smil/01.m3u8?fmt=ts2hls,504,01.m3u8,0,2360,0,0&accountinfo=Wti4h1vlszvIgmJ2Rn+JT30YqhIlb959YafU65xwPQuFI6KpBBcFipVQNWSpm9U4cljBwkAKGt2Lq1W8IgjWjgzcX+uhk0/ut3dCvLMCowlnlXUFPcI0kQdCh0LzCxZp:20181110091937,END&GuardEncType=2
 #EXTINF:-1 tvg-id="60" tvg-name="南方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/nanfang.png" group-title="地方频道",广东南方卫视
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方频道",江苏财富天下
@@ -167,65 +186,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001320/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001324/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方频道",广东高尔夫
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001323/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
-#EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",爱情公寓
-http://192.168.0.108:9084/douyu.php?id=6863367
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",爱情公寓
-http://192.168.0.108:9084/fy.php?id=11336726
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",地下交通站
-http://192.168.0.108:9084/douyu.php?id=299854
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",地下交通站
-http://zzy789.xyz/bili.php?id=23623242
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",地下交通站
-http://192.168.0.108:9084/fy.php?id=11342433
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",名侦探柯南
-http://zzy789.xyz/bili.php?id=181453
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",猫和老鼠
-http://192.168.0.108:9084/douyu.php?id=7888428
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",猫和老鼠
-http://zzy789.xyz/bili.php?id=1024814
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",海绵宝宝
-http://192.168.0.108:9084/douyu.php?id=2250349
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",海绵宝宝
-http://zzy789.xyz/bili.php?id=61834
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",蜡笔小新
-http://zzy789.xyz/bili.php?id=21570935
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",蜡笔小新
-http://zzy789.xyz/bili.php?id=22804740
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",少年包青天
-http://192.168.0.108:9084/douyu.php?id=7784862
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",少年包青天
-http://192.168.0.108:9084/fy.php?id=11342393
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",德云社
-http://192.168.0.108:9084/fy.php?id=26631018
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",德云社(音频)
-http://zzy789.xyz/bili.php?id=22375571
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",德云社(音频)
-http://zzy789.xyz/bili.php?id=308438
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",铁齿铜牙纪晓岚
-http://zzy789.xyz/bili.php?id=6694373
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",铁齿铜牙纪晓岚
-http://192.168.0.108:9084/fy.php?id=11342396
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",炊事班的故事
-http://zzy789.xyz/bili.php?id=21354981
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",周星驰
-http://192.168.0.108:9084/fy.php?id=22972199
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",神探狄仁杰
-http://192.168.0.108:9084/douyu.php?id=6027991
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",神探狄仁杰
-http://zzy789.xyz/bili.php?id=493067
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",龙门镖局
-http://192.168.0.108:9084/douyu.php?id=9650860
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",勇士闯魔城
-http://192.168.0.108:9084/douyu.php?id=7421687
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",英大吉
-http://192.168.0.108:9084/douyu.php?id=9174097
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",孤独的美食家
-http://192.168.0.108:9084/douyu.php?id=260322
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="轮播(内网)",格斗
-http://192.168.0.108:9084/douyu.php?id=1170082
-
 
 #EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="IPTV",CGTN
 http://[2409:8087:5011:1020::1f]/180000001001/00000001000000000002000000028019/main.m3u8?IASHttpSessionId=OTT
