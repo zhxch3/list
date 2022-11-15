@@ -205,48 +205,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002305/index.m3
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="IPTV",CHC家庭影院
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="IPTV",CHC高清电影
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/8785669936177902664/1.m3u8?channel-id=ystenlive&Contentid=8785669936177902664&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",黑莓动画
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/6497762188035533951/1.m3u8?channel-id=ystenlive&Contentid=6497762188035533951&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV古装
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/6859053933687922163/1.m3u8?channel-id=ystenlive&Contentid=6859053933687922163&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV动作
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/8103864434730665389/1.m3u8?channel-id=ystenlive&Contentid=8103864434730665389&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV军旅
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/7485075951068666323/1.m3u8?channel-id=ystenlive&Contentid=7485075951068666323&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV家庭
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/6316377948248689070/1.m3u8?channel-id=ystenlive&Contentid=6316377948248689070&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV惊悚
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/7151256057701199617/1.m3u8?channel-id=ystenlive&Contentid=7151256057701199617&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV海外
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/7681593242002292003/1.m3u8?channel-id=ystenlive&Contentid=7681593242002292003&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV搏击
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/bokesen/1.m3u8?channel-id=ystenlive&Contentid=bokesen&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV明星大片
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/5595720619887440144/1.m3u8?channel-id=ystenlive&Contentid=5595720619887440144&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV爱情喜剧
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/8393829412396288037/1.m3u8?channel-id=ystenlive&Contentid=8393829412396288037&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV精品大剧
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/7882297361445410858/1.m3u8?channel-id=ystenlive&Contentid=7882297361445410858&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV功夫
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/5897056882324761054/1.m3u8?channel-id=ystenlive&Contentid=5897056882324761054&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV金牌综艺
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/6399725674632152632/1.m3u8?channel-id=ystenlive&Contentid=6399725674632152632&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV军事评论
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/5822616274253344775/1.m3u8?channel-id=ystenlive&Contentid=5822616274253344775&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV农业致富
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/6193684637634073625/1.m3u8?channel-id=ystenlive&Contentid=6193684637634073625&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV精品记录
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/6298506997017621594/1.m3u8?channel-id=ystenlive&Contentid=6298506997017621594&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV健康有约
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/7820874641606664941/1.m3u8?channel-id=ystenlive&Contentid=7820874641606664941&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV精品体育
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/6460382139625130259/1.m3u8?channel-id=ystenlive&Contentid=6460382139625130259&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV潮妈辣婆
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/6516734029835465177/1.m3u8?channel-id=ystenlive&Contentid=6516734029835465177&livemode=1&stbId=0
-#EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",NewTV炫舞未来
-http://[2409:8087:5c0b:10:2::77]:6610/000000001000/1000000001000000515/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=0
+
 #EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="IPTV",IPTV5+
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001592/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="9999" tvg-name="" tvg-logo="" group-title="IPTV",都市剧场
